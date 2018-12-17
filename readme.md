@@ -1,3 +1,3 @@
-#React Study
+##React Study
 
 Project to study react
